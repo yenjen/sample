@@ -1,0 +1,231 @@
+
+#header{
+width: 100%;
+height: 65px;
+background: #333333;
+font-family: helvetica;
+position: relative;
+margin:0x auto;
+
+}
+
+#headcontainer{
+
+width:1000px;
+margin: 0px auto;
+position: relative;
+
+
+}
+
+
+#header #headcontainer #websitea{
+color: white;
+font-size:28px;
+text-align: left;
+width: 150px;
+float:left;
+margin-top:15px;
+}
+
+#header #headcontainer #nav {
+
+text-align: right;
+float:right;
+margin-top:15px;
+
+}
+
+
+#header #headcontainer #nav a{
+
+text-decoration: none;
+color: white;
+font-size:20px;
+display:inline;
+}
+
+
+
+
+#container{
+width: 1000px;
+text-align:center;
+margin:0px auto;
+margin-top: 15px;
+background:#FFFFFF;
+
+}
+
+
+#productbox{
+border: 1px solid #cccccc;
+background-color: #FFFFFF;
+padding: 15px;
+font-family:helvetica;
+margin-bottom:15px;
+
+
+}
+
+
+
+#productbox #nameofproduct{
+text-align:left;
+font-size:36px;
+color:#333333;
+}
+
+#recommend {
+
+float:left;
+margin:0px 0px;
+}
+
+#buy{
+margin:0px 5px 0px 0px;
+width:200px;
+height:50px;
+background-color:#c4df9b;
+text-align:center;
+font-size:2em;
+vertical-align:center;
+}
+
+
+
+#sell{
+margin:0px 5px;
+width:200px;
+height:50px;
+background-color:#f9ad81;
+text-align:center;
+font-size:2em;
+vertical-align:center;
+}
+
+#productbox #pic1{
+
+background-color:#CCCCCC;
+width:250px;
+height:350px;
+position: relative;
+float: left;
+margin-right: 30px;
+}
+
+
+#productbox #pic3{
+
+background-color:#CCCCCC;
+width:250px;
+height:350px;
+position: relative;
+float: right;
+}
+
+
+#productbox .pic2{
+background-color:#CCCCCC;
+width:30px;
+height:30px;
+}
+
+
+
+
+
+#postcontainer #pic3{
+
+background-color:#CCCCCC;
+width:250px;
+height:350px;
+position: relative;
+float: right;
+
+}
+
+#post1, #post2{
+
+font-family:helvetica;
+font-size: 16px;
+color: #333333;
+border:1px solid #CCCCCC;
+background-color: #ffffff;
+margin-bottom: 15px;
+width: 680px;
+height: auto;
+float:left;
+position: relative;
+padding: 10px;
+}
+
+#post1, .p{
+
+text-align:left;
+
+}
+
+#post2, .p{
+
+text-align:left;
+
+}
+
+#post1 #userpic{
+
+background-color:#CCCCCC;
+width:80px;
+height:80px;
+position: relative;
+float: left;
+}
+
+#post2 #userpic2{
+
+background-color:#CCCCCC;
+width:80px;
+height:80px;
+position: relative;
+float: left;
+}
+
+#post1 #username{
+
+font-family:helvetica;
+font-size:24px;
+color:#333333;
+float:left;
+margin-left:9px;
+
+}
+
+#post2 #username2{
+
+font-family:helvetica;
+font-size:24px;
+color:#333333;
+float:left;
+margin-left:9px;
+
+}
+
+#post1 #date3{
+
+font-family:helvetica;
+font-size:16px;
+color:#CCCCCC;
+float:left;
+margin-left:9px;
+}
+
+
+#post2 #date4{
+
+font-family:helvetica;
+font-size:16px;
+color:#CCCCCC;
+float:left;
+margin-left:9px;
+}
+
